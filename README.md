@@ -16,7 +16,7 @@
 <a href="https://twitter.com/gaurav_kr_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gaurav_kr_2002" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gsingh332211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gsingh332211" height="30" width="40" /></a>
 <a href="https://discord.gg/5140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5140" height="30" width="40" /></a>
-<a href="https://twitter.com/gaurav_kr_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gaurav_kr_2002" height="30" width="40" /></a>
+<a href="https://hackerrank.com/gsingh332211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gaurav_kr_2002" height="30" width="40" /></a>
 </p>
 
 ## 💼 Technical Skills
