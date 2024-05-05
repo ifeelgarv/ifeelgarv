@@ -33,11 +33,6 @@
 
 ## 📈 GitHub Stats 
 <br>
-<div class="footer-section">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=gsingh2432002&show_icons=true&locale=en" alt="gsingh2432002" /></p>
-    <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dinil-thilakarathne&show_icons=true&locale=en" alt="dinil-thilakarathne" /></p>
-</div>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gsingh2432002&show_icons=true&locale=en" alt="gsingh2432002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gsingh2432002&" alt="gsingh2432002" /></p>
