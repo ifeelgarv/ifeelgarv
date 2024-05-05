@@ -24,18 +24,11 @@
     <img src="https://skillicons.dev/icons?i=js,py,opencv,java,html,css,bootstrap,tailwind,react,redux,express,mongodb,mysql,sqlite,firebase,nodejs,bash,linux,postman,git,github,eclipse,vscode" />
   </a>
 </p>
-
-<br>
-
 <br>
 
 ## 📈 GitHub Stats 
 <br>
 <div>
-<p><img display="flex" flex-wrap="wrap" width="350px" align="left" src="https://github-readme-stats.vercel.app/api?username=gsingh2432002&show_icons=true&locale=en&layout=compact" alt="gsingh2432002" /></p>
-
 <p><img display="flex" flex-wrap="wrap" width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsingh2432002&show_icons=true&locale=en&layout=compact" alt="gsingh2432002" /></p>
-
-<p>&nbsp;<img display="flex" width="350px" justify-content="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=gsingh2432002&" alt="gsingh2432002" /></p>
 </div>
 
