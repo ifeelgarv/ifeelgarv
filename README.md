@@ -5,7 +5,7 @@
 <br>
 
 ## 😄 About Me
-<h3 align="center">I'm a Passionate for Problem Solving and MERN Stack Developer from India</h3>
+<h3 align="center"> Passionate Professional </h3>
 - 🎓 I am a Final year Bachelor of Technology Computer Science student at University of Engineering and Management, West Bengal.
 
 <br>
