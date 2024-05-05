@@ -9,6 +9,7 @@
 🎓 I am a Final year BTech CSE student at University of Engineering and Management, West Bengal, Kolkata.
 <br>
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gaurav_kr_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gaurav_kr_2002" height="30" width="40" /></a>
@@ -16,6 +17,7 @@
 <a href="https://discord.gg/5140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5140" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gsingh332211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gsingh332211" height="30" width="40" /></a>
 </p>
+
 
 ## 💼 Technical Skills
 
