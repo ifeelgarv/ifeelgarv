@@ -33,8 +33,8 @@
 
 ## 📈 GitHub Stats 
 <br>
-<div>
-<p><img  width="350px" align="left" src="https://github-readme-stats.vercel.app/api?username=gsingh2432002&show_icons=true&locale=en&layout=compact" alt="gsingh2432002" /></p>
+<div display="flex" flex-direction="column" class="footer-section">
+<p><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api?username=gsingh2432002&show_icons=true&locale=en&layout=compact" alt="gsingh2432002" /></p>
 
 <p><img width="250px" align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsingh2432002&show_icons=true&locale=en&layout=compact" alt="gsingh2432002" /></p>
 
