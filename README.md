@@ -38,7 +38,7 @@
 
 <p><img display="flex" flex-direction="column" width="150px" align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsingh2432002&show_icons=true&locale=en&layout=compact" alt="gsingh2432002" /></p>
 
-<p>&nbsp;<img display="flex" flex-direction="column" width="150px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gsingh2432002&" alt="gsingh2432002" /></p>
+<p>&nbsp;<img display="flex" flex-direction="column" width="150px" align="" src="https://github-readme-streak-stats.herokuapp.com/?user=gsingh2432002&" alt="gsingh2432002" /></p>
 </div>
 
 
