@@ -30,4 +30,4 @@
 
 - Demon Slayer is my favorite anime.
 - As a kid, I wanted to be a Pilot.
-- I love to play video games while I am free.
+- I love to play video games when I'm free.
