@@ -17,7 +17,7 @@
 <a href="https://discord.gg/5140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5140" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gsingh332211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gsingh332211" height="30" width="40" /></a>
 </p>
-
+<br>
 
 ## 💼 Technical Skills
 
