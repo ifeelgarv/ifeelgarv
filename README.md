@@ -20,9 +20,9 @@
 
 ## 💼 Technical Skills
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,opencv,java,html,css,bootstrap,tailwind,react,redux,express,mongodb,mysql,sqlite,nodejs,bash,linux,postman,git,github,eclipse,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,py,opencv,java,html,css,bootstrap,tailwind,react,redux,express,mongodb,mysql,sqlite,firebase,nodejs,bash,linux,postman,git,github,eclipse,vscode" />
   </a>
 </p>
 
