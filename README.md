@@ -26,9 +26,8 @@
 </p>
 <br>
 
-## 📈 GitHub Stats 
-<br>
-<div>
-<p><img display="flex" flex-wrap="wrap" width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsingh2432002&show_icons=true&locale=en&layout=compact" alt="gsingh2432002" /></p>
-</div>
+## ✨ Fun Facts 
 
+- Demon Slayer is my favorite anime.
+- As a kid, I wanted to be a Pilot.
+- I love to play video games while I am free.
