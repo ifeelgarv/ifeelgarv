@@ -1,4 +1,4 @@
-<p align="center" width="100%" height="25%">
+<p align="center">
   <img src="https://github.com/GSingh2432002/GSingh2432002/blob/main/header.svg" alt="my banner"></a>
 </p>
 
