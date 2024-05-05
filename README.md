@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,opencv,java,html,css,bootstrap,tailwind,react,redux,sass,express,mongodb,mysql,sqlite,nodejs,aws,bash,docker,nextjs,linux,postman,git,github,eclipse,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,py,opencv,java,html,css,bootstrap,tailwind,react,redux,express,mongodb,mysql,sqlite,nodejs,bash,linux,postman,git,github,eclipse,vscode" />
   </a>
 </p>
 
@@ -33,6 +33,6 @@
 
 ## 📈 GitHub Stats 
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gsingh2432002&show_icons=true&locale=en" alt="gsingh2432002" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gsingh2432002&show_icons=true&locale=en" alt="gsingh2432002" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gsingh2432002&" alt="gsingh2432002" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gsingh2432002&" alt="gsingh2432002" /></p>
