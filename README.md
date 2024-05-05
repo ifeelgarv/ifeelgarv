@@ -33,7 +33,7 @@
 
 ## 📈 GitHub Stats 
 <br>
-<div class="footer-section">
+<div class="footer-section" display="flex">
 <p><img display="flex" flex-wrap="wrap" width="250px" align="left" src="https://github-readme-stats.vercel.app/api?username=gsingh2432002&show_icons=true&locale=en&layout=compact" alt="gsingh2432002" /></p>
 
 <p><img display="flex" flex-wrap="wrap" width="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsingh2432002&show_icons=true&locale=en&layout=compact" alt="gsingh2432002" /></p>
