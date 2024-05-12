@@ -8,7 +8,7 @@
 <h3 align="center"> Passionate Professional </h3>
 🎓 I am a Final year BTech CSE student at University of Engineering and Management, West Bengal, Kolkata.
 <br>
-- Check out my _[portfolio]_(https://portfoliogks.netlify.app/) to learn more about me.
+- Check out my [*portfolio*](https://portfoliogks.netlify.app/) to learn more about me.
 <br>
 - Explore my _[blog]_(https://medium.com/@gksingh) where I share my few learnings.
 <br>
