@@ -10,7 +10,7 @@
 <br>
 - Check out my (https://portfoliogks.netlify.app/) to learn more about me.
 <br>
-- Explore my (https://medium.com/@gksingh) where I share my few learnings.
+- Explore my <a href="https://medium.com/@gksingh" target="_blank">Blog</a>where I share my few learnings.
 <br>
 
 
