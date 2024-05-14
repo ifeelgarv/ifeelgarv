@@ -6,7 +6,7 @@
 
 ## 😄 About Me
 <h3 align="center"> Passionate Professional </h3>
-<p align="center"🎓 I am a Final year BTech CSE student at University of Engineering and Management, West Bengal, Kolkata.></p>
+<p align="center">🎓 I am a Final year BTech CSE student at University of Engineering and Management, West Bengal, Kolkata.</p>
 <br>
 <br>
 - Check out my <a href="https://portfoliogks.netlify.app/" target="_blank">website</a> to learn more about me.
