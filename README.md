@@ -9,10 +9,11 @@
 <p align="center">🎓 I am a Final year BTech CSE student at University of Engineering and Management, West Bengal, Kolkata.</p>
 <br>
 <br>
-- Check out my <a href="https://portfoliogks.netlify.app/" target="_blank">website</a> to learn more about me.
+- Check out my website [https://portfoliogks.netlify.app/](https://portfoliogks.netlify.app/)
 <br>
-- Explore my <a href="https://medium.com/@gksingh" target="_blank">blog</a> where I share my few learnings.
-<br>
+<p align="left">
+<a href="https://medium.com/@gksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gksingh" height="30" width="40" /></a>
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
