@@ -32,7 +32,9 @@
 ## ✨ Fun Facts 
 <p align="center">
 - Demon Slayer is my favorite anime.
+  <br>
 - As a kid, I wanted to be a Pilot.
+  <br>
 - I love to play video games when I'm free.
 </p>
 
