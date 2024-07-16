@@ -6,7 +6,7 @@
 
 ## 😄 About Me
 <h3 align="center"> Passionate Professional </h3>
-<p align="center">🎓 I am a Final year BTech CSE student at University of Engineering and Management, West Bengal, Kolkata.</p>
+<p align="center">🎓 I am a First year MTech Artificial Intelligence and Data Science student at Vellore Institute of Technology Bhopal, Madhya Pradesh.</p>
 <br>
 
 <h3 align="left">Connect with me:</h3>
