@@ -5,8 +5,7 @@
 <br>
 
 ## 😄 About Me
-<h3 align="center"> Passionate Professional </h3>
-<p align="center">🎓 Graduated</p>
+<p align="center">🎓 Full Stack Developer | Expertise in JS Frameworks (React) | Skilled in Server-Side Technologies (Node.js, Express) | Proficient in Database Management (SQL, NoSQL) | Experienced with Ethereum Smart Contracts & Decentralized Applications </p>
 <br>
 
 <h3 align="left">Connect with me:</h3>
