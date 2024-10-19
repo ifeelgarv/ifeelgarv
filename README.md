@@ -37,13 +37,6 @@
 </p>
 
 ## 💥 Current Stats
-<p align="center>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GSingh2432002" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GSingh2432002&layout=compact&langs_count=8&card_width=320" />
-</a>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=GSingh2432002&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=GSingh2432002&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
