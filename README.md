@@ -13,5 +13,5 @@
 
 - 📫 How to reach me **gsingh332211@gmail.com**
 
-  <img height=250 align="center" width=390 src="https://streak-stats.demolab.com/?user=GSingh2432002&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=GSingh2432002&show_icons=true&theme=radical)
+### 🌟 Check out my GitHub stats  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
