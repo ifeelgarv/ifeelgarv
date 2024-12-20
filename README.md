@@ -14,4 +14,4 @@
 - 📫 How to reach me **gsingh332211@gmail.com**
 
 ### 🌟 Check out my GitHub stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=GSingh2432002&show_icons=true&theme=radical)
