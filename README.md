@@ -16,9 +16,15 @@
 - 💻 Check out some of my pojects : 
 
 ### 🌟 Check out my GitHub stats  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 <table>
   <tr>
-    <td><img src="https://github-readme-stats-itsflash10.vercel.app/api?username=GSingh2432002&show_icons=true&locale=en&theme=radical&hide_border=true" alt="itsflash10" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=ItsFlash10&theme=radical&hide_border=true" alt="GSingh2432002" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=GSingh2432002&show_icons=true&theme=radical" alt="GSingh2432002" /></td>
+    <td>
+      <a href="https://github.com/GSingh2432002" target="_blank">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=GSingh2432002&theme=radical&hide_border=true" alt="View my GitHub Profile" />
+      </a>
+    </td>
   </tr>
 </table>
