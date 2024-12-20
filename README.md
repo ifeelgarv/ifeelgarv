@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=itsflash10&label=Profile%20views&color=0e75b6&style=flat" alt="GSingh2432002" /> 
 </p>
 
-- 🌐 Open Source | 📱 Web Developer
+- 🌐 Open Source | 🖥️ Web Developer | 📱 React Native
 
 - 🌱 Trying learning everything 😄
 
@@ -13,18 +13,12 @@
 
 - 📫 How to reach me **gsingh332211@gmail.com**
 
-- 💻 Check out some of my pojects : 
+- 💻 Check out my recent works : **[vrplaced.ai](https://vrplaced.ai/)**
 
-### 🌟 Check out my GitHub stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=GSingh2432002&show_icons=true&theme=radical" alt="GSingh2432002" /></td>
-    <td>
-      <a href="https://github.com/GSingh2432002" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=GSingh2432002&theme=radical&hide_border=true" alt="View my GitHub Profile" />
-      </a>
-    </td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=GSingh2432002&show_icons=true&theme=radical&hide_border=true" alt="GSingh2432002" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=GSingh2432002&theme=radical&hide_border=true" alt="GSingh2432002" /></td>
   </tr>
 </table>
