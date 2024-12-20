@@ -1,3 +1,4 @@
+<img src="https://github-readme-stats.vercel.app/api?username=GSingh2432002&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
 <p align="center">
   <img src="https://github.com/GSingh2432002/GSingh2432002/blob/main/header.svg" alt="my banner"></a>
 </p>
