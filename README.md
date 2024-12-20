@@ -2,7 +2,7 @@
 <h3 align="center">A developer who is fighting for Development</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=itsflash10&label=Profile%20views&color=0e75b6&style=flat" alt="GSingh2432002" /> 
+  <img src="https://komarev.com/ghpvc/?username=GSingh2432002&label=Profile%20views&color=0e75b6&style=flat" alt="GSingh2432002" /> 
 </p>
 
 - 🌐 Open Source | 🖥️ Web Developer | 📱 React Native
