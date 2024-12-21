@@ -9,8 +9,6 @@
 
 - 🌱 Trying learning everything 😄
 
-- ⚡ Fun fact **love tech, rap music and sports**
-
 - 📫 How to reach me **gsingh332211@gmail.com**
 
 - 💻 Check out my recent works : **[vrplaced.ai](https://vrplaced.ai/)**
