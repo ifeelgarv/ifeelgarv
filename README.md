@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Gaurav <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30" height="30px"/></h1>
 <h3 align="center">A developer who is fighting for development with every keystroke! 🦾✨</h3>
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=GSingh2432002&label=Profile%20views&color=0e75b6&style=flat" alt="GSingh2432002" /> 
 </p>
 
