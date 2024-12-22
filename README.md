@@ -20,3 +20,6 @@
     <td><img src="https://github-readme-streak-stats.herokuapp.com?user=GSingh2432002&theme=radical&hide_border=true" alt="GSingh2432002" /></td>
   </tr>
 </table>
+<a href="https://discordapp.com/users/gauravsingh." target="blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
