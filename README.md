@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gsingh332211@gmail.com**
 
-- 💻 Check out my recent works : **[vrplaced.ai](https://vrplaced.ai/)**
+- 💻 Check out my project : **[vrplaced.ai](https://vrplaced.ai/)**
 
 
 <table>
