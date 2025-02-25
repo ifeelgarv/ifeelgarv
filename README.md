@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gsingh332211@gmail.com**
 
-- 💻 Check out my project : **[vrplaced.ai](https://vrplaced.ai/)** **[SaaS Landing Page](https://ai-landing-page.gauravsingh.co.in/)**
+- 💻 Check out my project : **[vrplaced.ai](https://vrplaced.ai/)**, **[AILanding.page](https://ai-landing-page.gauravsingh.co.in/)**
 
 
 <table>
