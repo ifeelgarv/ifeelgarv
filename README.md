@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gsingh332211@gmail.com**
 
-- 💻 Check out my project : **[vrplaced.ai](https://vrplaced.ai/)** | **[AILanding.page](https://ai-landing-page.gauravsingh.co.in/)** | **[cynthiaugwu](https://cynthiaugwuclone-com.vercel.app/)** | **[works.studio](https://works-studio-bice.vercel.app/)**
+- 💻 Check out my project : **[vrplaced.ai](https://vrplaced.ai/)** | **[AILanding.page](https://ai-landing-page.gauravsingh.co.in/)** | **[cynthiaugwu](https://cynthiaugwuclone-com.vercel.app/)** | **[works.studio](https://works-studio-bice.vercel.app/)** | **[Klimate](https://weather-app-tau-green.vercel.app/)**
 
 
 <table>
