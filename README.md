@@ -8,5 +8,5 @@ Outside of code, I’m usually lost in watching tech pod, pushing limits at the 
 
 #### Fun Facts:
 
-* I once spent 8 hours straight perfecting a UI animation — no regrets.
+* I once spent 8 hours straight perfecting a UI animation - no regrets.
 * Building a SaaS from scratch taught me more than any course ever could.
