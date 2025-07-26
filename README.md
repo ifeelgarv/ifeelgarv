@@ -4,7 +4,7 @@ I’m [**Gaurav**](https://gauravsingh.co.in/), a Full-Stack Developer based in 
 
 I love turning design ideas into lightning-fast, accessible interfaces that feel effortless.
 
-Outside of code, I’m usually lost in watching tech pod, pushing limits at the gym, or nerding out over other's github repos for new ideas.
+Outside of code, I’m usually lost in tech podcasts, pushing my limits at the gym, or nerding out over others’ GitHub repos for new ideas.
 
 #### Projects:
 
