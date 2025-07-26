@@ -6,5 +6,5 @@ I love turning design ideas into lightning-fast, accessible interfaces that feel
 
 Outside of code, I’m usually lost in watching tech pod, pushing limits at the gym, or nerding out over other's github repos for new ideas.
 
-### Fun Fact
+#### Projects
 You’ll find some of my side projects pinned on my profile which I've built with love and lots of `console.log()`.
