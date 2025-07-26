@@ -4,9 +4,7 @@ I’m [**Gaurav**](https://gauravsingh.co.in/), a Full-Stack Developer based in 
 
 I love turning design ideas into lightning-fast, accessible interfaces that feel effortless.
 
-Outside of code, I’m usually lost in watching tech pod, pushing limits at the gym, or nerding out over the latest dev tools and design trends.
+Outside of code, I’m usually lost in watching tech pod, pushing limits at the gym, or nerding out over other's github repos for new ideas.
 
-#### Fun Facts:
-
-* I once spent 8 hours straight perfecting a UI animation - no regrets.
-* Building a SaaS from scratch taught me more than any course ever could.
+### Fun Fact
+You’ll find some of my side projects pinned on my profile which I've built with love and lots of `console.log()`.
